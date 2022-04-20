@@ -12,7 +12,7 @@ public class Util {
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String URL = "jdbc:mysql://localhost:3306/new_schema";
     private static final String USERNAME = "lrikker";
-    private static final String PASSWORD = "Rabbyt16";
+    private static final String PASSWORD = "root";
 
     private static SessionFactory sessionFactory;
 
